@@ -1,5 +1,7 @@
-Alisa
-Valeria
+The names and ages:
+
+Alisa - 9
+Valeria - 12
 Andrew
 Daria
 Shen
